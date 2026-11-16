@@ -5,5 +5,5 @@
     android:text="⚡"
     android:textSize="24sp"
     android:gravity="center"
-    android:background="#CC DD0000"
+    android:background="#CCDD0000"
     android:textColor="#FFFFFF"/>
